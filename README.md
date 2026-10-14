@@ -63,5 +63,5 @@ This project was developed to practice fundamental Python programming concepts, 
 # Author
 Vidhi Bansal
 
-## 📄 License
+# License
 This project is available for educational and learning purposes.
